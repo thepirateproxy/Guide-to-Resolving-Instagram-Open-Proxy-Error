@@ -27,9 +27,21 @@ Proxies can optimize loading speeds on Instagram by streamlining data transmissi
 
 3. **Avoid Free Proxies**: Free proxies are often overcrowded, slow, and lack privacy or anonymity. They may be monitored by malicious actors and are frequently blocked by Instagram.
 
-## Best Instagram Proxy Option in 2024
+## 2024 Free Instagram Proxy Sites
 
-**OkeyProxy** is one of the best proxies for Instagram. It offers [$9/3GB unlimited residential proxies](https://www.okeyproxy.com/en/residential-proxies/?link=b63b57), static residential, and data center proxies. Their rotating residential proxies, obtained from authentic residential users, make your Instagram bot nearly identical to real users, allowing you to automate tasks without the risk of being blocked.
+1. **CroxyProxy**: A popular web proxy that supports various social media platforms, including Instagram.
+ 
+2. **Hidester**: Offers a free web proxy service with the ability to access Instagram.
+  
+3. **ProxySite**: Provides a simple interface to browse Instagram and other social media sites.
+   
+4. **4everproxy**: Allows you to access Instagram and other blocked websites with ease.
+
+Always be cautious when using free proxy services, as they may have limitations or security risks.
+
+## Best Premium Instagram Proxy Option in 2024
+
+**OkeyProxy** is one of the best proxies for Instagram. It offers [**$9/3GB unlimited residential proxies**](https://www.okeyproxy.com/en/residential-proxies/?link=b63b57), static residential, and data center proxies. Their rotating residential proxies, obtained from authentic residential users, make your Instagram bot nearly identical to real users, allowing you to automate tasks without the risk of being blocked.
 
 ![EN banner](https://github.com/thepirateproxy/Guide-to-Resolving-Instagram-Open-Proxy-Error/assets/169422974/3cb6e6a8-ecb4-4cc8-bd8c-22988f56c7e4)
 ...
